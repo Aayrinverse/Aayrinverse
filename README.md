@@ -1,11 +1,7 @@
 # Aayrinverse-
 <h1 align="center">Hi, I'm Aayrin 👋🏻</h1>
 <p align="center">
-🌌 Welcome to the <b>Aayrinverse</b> — a universe where creativity meets code.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76AC7&center=true&vCenter=true&width=435&lines=CSE+Student+%7C+Web+Dev+Learner;Dreaming+in+Code+%F0%9F%92%AF;Curious+Mind+%E2%9C%A8+Pretty+Vibes">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F76AC7&center=true&vCenter=true&width=500&lines=✨+Welcome+to+the+Aayrinverse;🌌+Where+code+meets+charm+%26+curiosity;👩‍💻+A+soft+space+for+hard+logic" alt="Typing SVG" />
 </p>
 <p align="center">
 ✨ First year CSE student | Future Developer | Digital Diva |  
