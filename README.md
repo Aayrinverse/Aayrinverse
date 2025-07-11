@@ -1,6 +1,4 @@
-<h1 align="center"> 𝗔𝗔𝗬𝗥𝗜𝗡𝗩𝗘𝗥𝗦𝗘- </h1>
-
-<p align="center"><i>A NEW DIMENSION </i></p>
+<h1 align="center"> 𝗔𝗔𝗬𝗥𝗜𝗡𝗩𝗘𝗥𝗦𝗘-A NEW DIMENSION </h1>
 
 <h1 align="center">Hi, I'm Aayrin 👋🏻</h1>
 <p align="center">
