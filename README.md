@@ -1,7 +1,7 @@
 # Aayrinverse-
 <h1 align="center">Hi, I'm Aayrin 👋🏻</h1>
 <p align="center">
-✨ First year CSE student | Future Developer | Digital Diva| 
+✨ First year CSE student | Future Developer | Digital Diva |  
  Always Evolving 
 </p>
 
@@ -37,11 +37,9 @@
 
 ### 💥What Sets Me Apart
 
-- I ask questions until I get itt
+- I believe in clean code, good design, and great coffee☕
 - I don't wait for opportunities-I Engineer them 
 - Precision, Presence , and a perspective that turns problems into solutions- that's what I bring to the table
-- I believe in clean code, good design, and great coffee☕
-
 ---
 
 ### 📬 Let's Connect
