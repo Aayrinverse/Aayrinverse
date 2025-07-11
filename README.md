@@ -1,6 +1,6 @@
 # Aayrinverse-
 <h1 align="center">Hi, I'm Aayrin 👋🏻</h1>
-🌌 Welcome to the **Aayrinverse** — where creativity meets code.
+<h1 align="center">🌌 Welcome to the **Aayrinverse** — where creativity meets code.</h1>
 <p align="center">
 ✨ First year CSE student | Future Developer | Digital Diva |  
  Always Evolving 
