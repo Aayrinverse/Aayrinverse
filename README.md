@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3rem;">🌌 AAYRINVERSE 🌌</h1>
+<h2 align="center">✨ WELCOME TO THE AAYRINVERSE ✨</h2>
 <p align="center"><i>A NEW DIMENSION </i></p>
 
 <h1 align="center">Hi, I'm Aayrin 👋🏻</h1>
