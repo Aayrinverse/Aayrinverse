@@ -1,6 +1,6 @@
-<h1 align="center"> 𝗔𝗔𝗬𝗥𝗜𝗡𝗩𝗘𝗥𝗦𝗘</h1><p align="center"><b><i>New Dimension </i></b></p>
+<h1 align="center"> ---𝗔𝗔𝗬𝗥𝗜𝗡𝗩𝗘𝗥𝗦𝗘---</h1><p align="center"><b><i>New Dimension </i></b></p>
 
-<p align="center"><b><i>HI I'M AAYRIN </i></b></p>
+<p align="center">><i>HI I'M AAYRIN👋🏻 </i><</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=🎬+Loading+Aayrinverse...;🌌+Welcome+to+my+digital+universe.;👾+Stay+a+while+%7C+Explore+a+repo+or+two." />
 </p>
