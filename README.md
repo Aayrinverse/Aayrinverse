@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F9578B&center=true&vCenter=true&width=500&lines=🌌+Welcome+to+the+Aayrinverse;🪐+A+new+dimension" />
-</p>
+<h1 align="center" style="font-size: 3rem;">🌌 AAYRINVERSE 🌌</h1>
+<p align="center"><i>A NEW DIMENSION </i></p>
 
 <h1 align="center">Hi, I'm Aayrin 👋🏻</h1>
 <p align="center">
