@@ -1,7 +1,7 @@
 # Aayrinverse-
 <h1 align="center">Hi, I'm Aayrin 👋🏻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF7B9C&center=true&vCenter=true&width=500&lines=🎬+Loading+Aayrinverse...;🌸+Welcome+to+my+digital+universe.;👾+Stay+a+while+%7C+Explore+a+repo+or+two." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=🎬+Loading+Aayrinverse...;🌸+Welcome+to+my+digital+universe.;👾+Stay+a+while+%7C+Explore+a+repo+or+two." />
 </p>
 <p align="center">
 ✨ First year CSE student | Future Developer | Digital Diva |  
