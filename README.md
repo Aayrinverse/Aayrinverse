@@ -39,12 +39,6 @@ First year CSE student | Future Developer | Digital Diva |
 
 ---
 
-### 💥What Sets Me Apart
-
-- I believe in clean code, good design, and great coffee☕
-- I don't wait for opportunities-I Engineer them 
-- Precision, Presence , and a perspective that turns problems into solutions- that's what I bring to the table
----
 
 ### 📬 Let's Connect
 
